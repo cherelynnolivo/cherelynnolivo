@@ -46,6 +46,17 @@ In the backend, we can validate that the notification did indeed come through
 | ---------- | -------------- |
 | ![](4.png) | ![](3.png)<br> |
 #### Lambda subscriber
-![[6.png]]
+![](6.png)
 #### Email subscriber
- ![[5.png]]
+![](5.png)
+
+#### Cloudwatch logs
+##### admin-service
+![](9.png)
+##### sns-subcribe
+![](10.png)
+## Participants notification
+### UX
+![](7.gif)
+#### Dynamodb entry
+![](8.png)
