@@ -1,8 +1,16 @@
 ---
-tags: 
+tags:
+  - React
+  - AWS
+  - Dynamodb
+  - AWS-SNS
+  - AWS-Lambda
+  - AWS-Gateway
+  - MUI
+  - AWS-Cloudwatch
 date: 05/08/2024
 ---
-# CSIRO
+# CSIRO Dynamic Consent Platform
 ## Context
 ### Purpose of the project
 
@@ -20,5 +28,7 @@ The project currently includes a login system, basic interfaces, and forms for r
 - Consent form reminder: To make sure consent forms are filled out till the end, the data officer can opt in to a notification type reminder to the participant of the consent form to finish their form. This is ensure the consent form completion rate can increase.
 - Be able to view participant contact details to manually call for any reason (e.g. a form has been not completed for an extended period).
 ## Infrastructure
-**![](csiro-project-1.png)
+![](csiro-project-1.png)
 ## Working demo
+### Admin able to send a notification
+![[csiro-project-2.gif]]
