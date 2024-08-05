@@ -33,7 +33,9 @@ The project currently includes a login system, basic interfaces, and forms for r
 ### Admin able to send a notification
 #### UX 
 See below for the UX of what this looks like
-![](2.gif)
+
+
+![[2.mov]]
 
 Notice that
 - The loading state is handled correctly
