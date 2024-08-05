@@ -33,7 +33,7 @@ The project currently includes a login system, basic interfaces, and forms for r
 ### Admin able to send a notification
 #### UX 
 See below for the UX of what this looks like
-![](2.mov)
+![](2.mp4)
 
 Notice that
 - The loading state is handled correctly
@@ -56,6 +56,5 @@ In the backend, we can validate that the notification did indeed come through
 ![](10.png)
 ## Participants notification
 ### UX
-![](11.mov)
-#### DynamoDB entry
+![](11.mp4)#### DynamoDB entry
 ![](8.png)
