@@ -28,11 +28,13 @@ The project currently includes a login system, basic interfaces, and forms for r
 - Consent form reminder: To make sure consent forms are filled out till the end, the data officer can opt in to a notification type reminder to the participant of the consent form to finish their form. This is ensure the consent form completion rate can increase.
 - Be able to view participant contact details to manually call for any reason (e.g. a form has been not completed for an extended period).
 ## Infrastructure
-![](csiro-project-1.png)
+![](1.png)
 ## Working demo
 ### Admin able to send a notification
+#### UX 
 See below for the UX of what this looks like
-![](csiro-project-2.gif)
+![](2.gif)
+
 Notice that
 - The loading state is handled correctly
 - The users from the forms are passed in correctly
@@ -40,7 +42,10 @@ Notice that
 
 In the backend, we can validate that the notification did indeed come through
 
-| Topics                                               | Subscribers              |
-| ---------------------------------------------------- | ------------------------ |
-| ![](csiro-project-3.png)<br>![](csiro-project-5.png) | ![](csiro-project-4.png) |
- 
+| Topics     | Subscribers    |
+| ---------- | -------------- |
+| ![](4.png) | ![](3.png)<br> |
+#### Lambda subscriber
+![[6.png]]
+#### Email subscriber
+ ![[5.png]]
