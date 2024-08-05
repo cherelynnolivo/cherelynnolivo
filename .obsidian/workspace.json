@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "body-of-work/csiro-project/csiro-project.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "body-of-work/csiro-project/csiro-project.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "body-of-work/csiro-project/csiro-project.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "body-of-work/csiro-project/csiro-project.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "1bb3068e7fc5f0f6",
   "lastOpenFiles": [
-    "body-of-work/csiro-project/11.mp4",
+    "body-of-work/lowest-average-diversity-calculator/average_entropy_position.py",
+    "body-of-work/viral-genome-finder/README.md",
+    "body-of-work/lowest-average-diversity-calculator/README.md",
+    "body-of-work/lowest-average-diversity-calculator",
     "body-of-work/csiro-project/csiro-project.md",
+    "body-of-work/csiro-project/README.md",
+    "body-of-work/viral-genome-finder/index.md",
+    "body-of-work/viral-genome-finder/viralGenomeFinder.py",
+    "README.md",
+    "body-of-work/viral-genome-finder",
+    "body-of-work/csiro-project/11.mp4",
     "body-of-work/csiro-project/2.mov",
     "body-of-work/csiro-project/2.mp4",
     "body-of-work/csiro-project/11.mov",
@@ -164,7 +173,6 @@
     "body-of-work/csiro-project",
     "body-of-work/csiro-project/2.gif",
     "body-of-work/csiro-project/4.png",
-    "README.md",
     "assets",
     "cherdev/body-of-work/Untitled.md"
   ]
