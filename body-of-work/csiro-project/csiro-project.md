@@ -33,12 +33,8 @@ The project currently includes a login system, basic interfaces, and forms for r
 ### Admin able to send a notification
 #### UX 
 See below for the UX of what this looks like
-![]("./2.mp4")
 
-<figure class="video_container">
-  <iframe src="./2.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+https://github.com/user-attachments/assets/92659418-ada8-402d-8eb6-7645895f90c9
 
 Notice that
 - The loading state is handled correctly
@@ -61,5 +57,8 @@ In the backend, we can validate that the notification did indeed come through
 ![](10.png)
 ## Participants notification
 ### UX
-![](11.mp4)#### DynamoDB entry
+
+https://github.com/user-attachments/assets/f7f23516-fa4a-4f4a-81d1-118b3d5eb8f8
+
+#### DynamoDB entry
 ![](8.png)
