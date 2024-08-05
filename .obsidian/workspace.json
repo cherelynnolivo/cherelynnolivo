@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcf4a60b4c150d4b",
@@ -146,12 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be997bb5d6ef4bea",
+  "active": "1bb3068e7fc5f0f6",
   "lastOpenFiles": [
     "body-of-work/csiro-project-2.gif",
+    "body-of-work/csiro-project-3.png",
+    "body-of-work/csiro-project-5.png",
+    "body-of-work/csiro-project.md",
+    "body-of-work/csiro-project-4.png",
     "body-of-work/csiro-project-1.png",
     "README.md",
-    "body-of-work/csiro-project.md",
     "assets/profile.jpeg",
     "assets",
     "cherdev/body-of-work/Untitled.md"

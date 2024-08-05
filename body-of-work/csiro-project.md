@@ -31,4 +31,16 @@ The project currently includes a login system, basic interfaces, and forms for r
 ![](csiro-project-1.png)
 ## Working demo
 ### Admin able to send a notification
-![[csiro-project-2.gif]]
+See below for the UX of what this looks like
+![](csiro-project-2.gif)
+Notice that
+- The loading state is handled correctly
+- The users from the forms are passed in correctly
+- The success event is paired with the success toast at the bottom right
+
+In the backend, we can validate that the notification did indeed come through
+
+| Topics                                               | Subscribers              |
+| ---------------------------------------------------- | ------------------------ |
+| ![](csiro-project-3.png)<br>![](csiro-project-5.png) | ![](csiro-project-4.png) |
+ 
