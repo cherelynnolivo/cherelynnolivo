@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "body-of-work/csiro-project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "body-of-work/csiro-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "body-of-work/csiro-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "body-of-work/csiro-project.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "1bb3068e7fc5f0f6",
   "lastOpenFiles": [
+    "body-of-work/csiro-project-1.png",
+    "assets/profile.jpeg",
     "body-of-work/csiro-project.md",
     "README.md",
-    "assets/profile.jpeg",
     "assets",
     "cherdev/body-of-work/Untitled.md"
   ]
