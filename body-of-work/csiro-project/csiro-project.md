@@ -33,9 +33,7 @@ The project currently includes a login system, basic interfaces, and forms for r
 ### Admin able to send a notification
 #### UX 
 See below for the UX of what this looks like
-
-
-![[2.mov]]
+![](2.mov)
 
 Notice that
 - The loading state is handled correctly
@@ -51,7 +49,6 @@ In the backend, we can validate that the notification did indeed come through
 ![](6.png)
 #### Email subscriber
 ![](5.png)
-
 #### Cloudwatch logs
 ##### admin-service
 ![](9.png)
@@ -59,6 +56,6 @@ In the backend, we can validate that the notification did indeed come through
 ![](10.png)
 ## Participants notification
 ### UX
-![](7.gif)
-#### Dynamodb entry
+![](11.mov)
+#### DynamoDB entry
 ![](8.png)
