@@ -33,7 +33,12 @@ The project currently includes a login system, basic interfaces, and forms for r
 ### Admin able to send a notification
 #### UX 
 See below for the UX of what this looks like
-![](2.mp4)
+![]("./2.mp4")
+
+<figure class="video_container">
+  <iframe src="./2.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 Notice that
 - The loading state is handled correctly

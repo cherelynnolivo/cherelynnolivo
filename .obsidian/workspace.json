@@ -11,9 +11,11 @@
             "id": "1bb3068e7fc5f0f6",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "body-of-work/csiro-project/11.mp4"
+                "file": "body-of-work/csiro-project/csiro-project.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "body-of-work/csiro-project/11.mp4",
+                "file": "body-of-work/csiro-project/csiro-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "body-of-work/csiro-project/11.mp4",
+                "file": "body-of-work/csiro-project/csiro-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "body-of-work/csiro-project/11.mp4"
+                "file": "body-of-work/csiro-project/csiro-project.md"
               }
             }
           }
@@ -146,10 +148,10 @@
   },
   "active": "1bb3068e7fc5f0f6",
   "lastOpenFiles": [
+    "body-of-work/csiro-project/11.mp4",
     "body-of-work/csiro-project/csiro-project.md",
     "body-of-work/csiro-project/2.mov",
     "body-of-work/csiro-project/2.mp4",
-    "body-of-work/csiro-project/11.mp4",
     "body-of-work/csiro-project/11.mov",
     "body-of-work/csiro-project/9.png",
     "body-of-work/csiro-project/10.png",
